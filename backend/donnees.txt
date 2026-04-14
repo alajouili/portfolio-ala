@@ -1,0 +1,31 @@
+ALA  JOUILI
+ICT ENGINEERING STUDENT
+Tunis, Tunisia  •  +216 93 555 721  •  ala.jouili@supcom.tn  •  github.com/alajouili  •  linkedin.com/in/ala-jouili
+ICT Engineering student focused on telecommunications and artificial intelligence, with hands-on experience in machine learning, network systems, and technical project management.
+AREA OF EXPERTISE
+Machine Learning	Python / C / C++ / MATLAB	Telecommunications
+Network Systems	Linux & Git / Vivado	Antenna & PCB Design
+KEY ACHIEVEMENTS
+    • AI for Healthcare. Trained a deep learning model for breast cancer detection using medical imaging, achieving strong classification accuracy.
+    • Project Leadership. Managed a multidisciplinary academic project covering system design, branding, and digital communication, delivering all milestones on time.
+PROFESSIONAL EXPERIENCE
+AI Developer  |  GDG SUP'COM Club	2025
+    • Designed and trained a deep learning model for breast cancer detection using medical imaging datasets.
+    • Optimized model architecture and hyperparameters; collaborated with GDG SUP’COM team on prototype integration and testing.
+Project Engineer  |  Patch Antenna Design – Academic Project	2025–2026
+    • Designed and simulated a rectangular patch antenna, applying RF engineering principles and analyzing key parameters (return loss, gain, radiation pattern).
+Project Manager  |  Cellular Tower Management System – Academic Project	2026
+    • Developed a digital logic component using Vivado (FPGA), gaining hands-on experience with hardware description and synthesis.
+EDUCATION
+Engineering Degree, ICT – Telecommunications	2025 – Present
+SUP’COM – Université de Carthage, Tunis
+Classes Préparatoires, Mathématiques-Physique (PC Track)	2023 – 2025
+IPEIT, Tunis
+Baccalauréat Scientifique	2023
+Lycée Ajim, Djerba
+ADDITIONAL INFORMATION
+Technical:  Python, C, C++, MATLAB, NumPy, Pandas, Machine Learning, Cisco Packet Tracer, Linux, Vivado
+In development:  HTML, CSS, JavaScript, React, Node.js, Docker...  (foundational level — actively learning)
+Languages:  Arabic (Native)  •  French (Professional)  •  English (Academic)
+Activities:  GDG SUP’COM  •  IEEE SUP’COM  •  Team SUP’COM  (Active Member)
+Interests:  AI in communications, chess, fitness
